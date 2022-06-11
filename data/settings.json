@@ -7,20 +7,20 @@
   "title": "暮城导航 - 精选实用导航网站",
   "description": "暮城导航 - 精选实用导航网站",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
-  "theme": "Sim",
+  "theme": "Light",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 暮城网址导航, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/mucstudio/nav@image/nav-1654910698085-sim-wallpaper.jpg",
+      "src": "https://img.mcheng.cn/2022/06/11/46784dae4838b.jpg",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/mucstudio/nav@image/nav-1654910390886-pexels-miguel-á-padriñán-255379 (1).jpg",
+      "src": "https://img.mcheng.cn/2022/06/11/fefc6d14aca92.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -31,13 +31,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/mucstudio/nav@image/nav-1654910691214-sim-wallpaper.jpg",
+      "src": "https://img.mcheng.cn/2022/06/11/46784dae4838b.jpg",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/mucstudio/nav@image/nav-1654910309645-pexels-miguel-á-padriñán-255379 (1).jpg",
+      "src": "https://img.mcheng.cn/2022/06/11/fefc6d14aca92.jpg",
       "url": "",
       "width": null,
       "height": null
